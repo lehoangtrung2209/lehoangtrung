@@ -1,0 +1,8 @@
+﻿-Collection Framework là một kiến thực thống nhất cho trình bày và thao tác một danh sách các object,được cài đặt các thuật toán đã tối ưu, giúp thao tác trên danh sách một cách dễ dàng và đơn giản.
+-Collection Framework gồm có Collection và Map. Phần được dùng nhiều nhất trong lập trình là Collection -> List -> ArrayList
+-Collection có nhiều phương thức hỗ trợ như:
++Mô tả kích thước: size(), isEmpty()
++Mô tả nội dung: contains(), containsAll()
++Hỗ trợ thao tác về nội dung: add(), remove(), clear()
++Chuyển đổi collection thành mảng: toArray()
++Vòng lặp trên mảng các phần tử: iterator()
